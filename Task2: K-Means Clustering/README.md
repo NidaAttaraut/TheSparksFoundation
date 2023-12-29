@@ -13,3 +13,5 @@ the cluster means are the center points of the three clusters, while the cluster
 The table function is used to construct frequency tables of the given factors. It creates a table of frequencies that helps in identifying the patterns and trends in the data.
 In the given example, table(km.clusters, iris$Species) is creating a frequency table that shows the number of occurrences of each species (setosa, versicolor, or virginica) in each cluster of the K-means clustering algorithm applied to the iris dataset. This can be used to understand the distribution of the species in the different clusters and analyze the separation of species by the algorithm.
 
+Reference: SpencerPao 
+https://youtu.be/NKQpVU1LTm8?si=zQuXHQacQwpN3vgI
